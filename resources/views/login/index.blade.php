@@ -1,1 +1,1 @@
-{{htmentites($html)}}
+<img src="../img/babe.jpeg">
